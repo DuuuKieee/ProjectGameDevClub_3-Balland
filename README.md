@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Ball Island Online</h1>
+ <h1 align="center">Balland</h1>
 </p>
 
 ## Introduction
